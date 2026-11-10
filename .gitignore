@@ -1,0 +1,35 @@
+# Keil build output
+project/mdk/out_file/
+*.obj
+*.lst
+*.crf
+*.__i
+*.map
+*.hex
+*.lnp
+*.log
+*.htm
+
+# Local IDE state
+*.uvgui.*
+*.uvgui_*
+*.uvguix.*
+
+# Backups and temporary files
+project/backup/
+*.bak*
+*.tmp
+*.tmp.txt
+*_snapshot.tmp.txt
+*_numbered.tmp.txt
+
+# Private or unrelated material
+reference/
+数据集/
+*.docx
+*.zip
+*.rar
+*.7z
+.DS_Store
+Thumbs.db
+.vscode/
